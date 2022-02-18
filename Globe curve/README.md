@@ -6,7 +6,7 @@
  https://www.amcharts.com/docs/v4/
  
  ### Github Globe
-    ![](github/git-globe.jpg)
+  -  ![](github/git-globe.jpg)
      
  ### Github GLobe Clone
-    ![](github/git-globe-clone.png)
+  -  ![](github/git-globe-clone.png)
